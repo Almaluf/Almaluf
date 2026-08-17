@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Almaluf
-- 👀 I’m interested in ... Python and cloud native apps / automations
-- 🌱 I’m currently learning ... Python, Infrastructure as Code and Diagrams as Code
+- 👀 I’m interested in ... AI and cloud native apps / automations
+- 🌱 I’m currently learning ... AI, Infrastructure as Code, Diagrams as Code
 - 💞️ I’m looking to collaborate on ... Interesting stuff :) 
 - 📫 How to reach me ... try here
 
